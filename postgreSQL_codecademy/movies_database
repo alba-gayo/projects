@@ -1,0 +1,5 @@
+CREATE TABLE students (
+    name VARCHAR(255) NOT NULL,
+    age VARCHAR(255) NOT NULL
+)
+
